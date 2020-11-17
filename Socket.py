@@ -1,6 +1,8 @@
 from socket import *
 import time
 from openpyxl import load_workbook
+# Socket_Server
+#脚本设置服务器，对智能物流车通信处理
 
 index = 0
 # 返回当前日期，时间
